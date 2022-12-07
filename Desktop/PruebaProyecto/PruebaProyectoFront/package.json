@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@vue/cli": "^5.0.8",
+    "emitter": "^0.0.5"
+  }
+}

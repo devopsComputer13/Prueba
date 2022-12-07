@@ -1,0 +1,14 @@
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Bbdd\bin\Debug\net6.0\Bbdd.deps.json
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Bbdd\bin\Debug\net6.0\Bbdd.runtimeconfig.json
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Bbdd\bin\Debug\net6.0\Bbdd.dll
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Bbdd\bin\Debug\net6.0\Bbdd.pdb
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Bbdd\obj\Debug\net6.0\Bbdd.csproj.AssemblyReference.cache
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Bbdd\obj\Debug\net6.0\Bbdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Bbdd\obj\Debug\net6.0\Bbdd.AssemblyInfoInputs.cache
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Bbdd\obj\Debug\net6.0\Bbdd.AssemblyInfo.cs
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Bbdd\obj\Debug\net6.0\Bbdd.csproj.CoreCompileInputs.cache
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Bbdd\obj\Debug\net6.0\Bbdd.dll
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Bbdd\obj\Debug\net6.0\refint\Bbdd.dll
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Bbdd\obj\Debug\net6.0\Bbdd.pdb
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Bbdd\obj\Debug\net6.0\Bbdd.genruntimeconfig.cache
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Bbdd\obj\Debug\net6.0\ref\Bbdd.dll

@@ -1,0 +1,17 @@
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\bin\Debug\net6.0\AplicacionBbdd.deps.json
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\bin\Debug\net6.0\AplicacionBbdd.dll
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\bin\Debug\net6.0\AplicacionBbdd.pdb
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\bin\Debug\net6.0\Bbdd.dll
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\bin\Debug\net6.0\Bbdd.pdb
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\obj\Debug\net6.0\AplicacionBbdd.csproj.AssemblyReference.cache
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\obj\Debug\net6.0\AplicacionBbdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\obj\Debug\net6.0\AplicacionBbdd.AssemblyInfoInputs.cache
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\obj\Debug\net6.0\AplicacionBbdd.AssemblyInfo.cs
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\obj\Debug\net6.0\AplicacionBbdd.csproj.CoreCompileInputs.cache
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\obj\Debug\net6.0\AplicacionBbdd.csproj.CopyComplete
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\obj\Debug\net6.0\AplicacionBbdd.dll
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\obj\Debug\net6.0\refint\AplicacionBbdd.dll
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\obj\Debug\net6.0\AplicacionBbdd.pdb
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion y bbdd\obj\Debug\net6.0\ref\AplicacionBbdd.dll

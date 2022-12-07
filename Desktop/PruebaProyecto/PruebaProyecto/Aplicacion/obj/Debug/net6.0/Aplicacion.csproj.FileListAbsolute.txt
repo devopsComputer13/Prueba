@@ -1,0 +1,12 @@
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+C:\Users\guiomar.pareja.ext\Desktop\PruebaProyecto\PruebaProyecto\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
